@@ -1,2 +1,2 @@
 # CryptoPals
-My attempt at solving cryptopals challange
+My attempt at solving cryptopals challenge
